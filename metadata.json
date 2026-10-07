@@ -1,0 +1,6 @@
+{
+  "name": "Pen VPN",
+  "description": "A modern, secure and professional WireGuard VPN application with global servers, smart location selection, and server management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
